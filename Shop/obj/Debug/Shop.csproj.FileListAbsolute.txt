@@ -1,0 +1,9 @@
+C:\Users\student305.IT\Documents\Burilova\Shop\bin\Debug\Shop.exe.config
+C:\Users\student305.IT\Documents\Burilova\Shop\bin\Debug\Shop.exe
+C:\Users\student305.IT\Documents\Burilova\Shop\bin\Debug\Shop.pdb
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.exe
+C:\Users\student305.IT\Documents\Burilova\Shop\obj\Debug\Shop.pdb
